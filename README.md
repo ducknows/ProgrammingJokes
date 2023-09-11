@@ -1,4 +1,4 @@
-# ProgrammngJokes
+# ProgrammingJokes
 
 Go to folder
 
