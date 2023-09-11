@@ -1,0 +1,7 @@
+<div class="joke">
+  <p *ngIf="joke">{{joke.setup}} {{joke.punchline}}</p>
+  <div class="joke-reactions">
+    <button (click)="handleYes()">YES</button>
+    <button (click)="handleNo()">NO</button>
+  </div>
+</div>
